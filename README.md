@@ -1,9 +1,9 @@
 ## GitHub for FAIR reproducible research (data) projects
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/shigapov/ReproResearch/blob/main/CODE_OF_CONDUCT.md) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/shigapov/ReproResearch/code)
-[![Open Data](https://badgen.net/static/open/data/cyan)](https://github.com/shigapov/ReproResearch/data)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/shigapov/ReproResearch/tree/main/code)
+[![Open Data](https://badgen.net/static/open/data/cyan)](https://github.com/shigapov/ReproResearch/tree/main/data)
 
 **Title**: A ready-to-use repository for FAIR reproducible research (data) projects
 
