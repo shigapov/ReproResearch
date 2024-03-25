@@ -1,0 +1,11 @@
+# Blogs
+
+A folder named "docs/blogs" within a deposit accompanying a research paper typically contains blog posts or articles related to the research project. Here's what you might find in a "docs/blogs" folder:
+
+1. Research Blog Posts: These are blog posts specifically written by the researchers or collaborators discussing various aspects of the research project. Research blog posts often provide insights into the research process, explanations of key concepts, discussions of experimental findings, or reflections on the implications and significance of the research results.
+2. Summary Posts: Summary blog posts that provide an overview of the research paper's main findings, methodology, and contributions. These posts are often written in a more accessible and reader-friendly format compared to the formal research paper, making them suitable for a broader audience.
+3. Technical Insights: Blog posts that delve into technical aspects of the research, discussing specific algorithms, methodologies, or techniques employed in the study. These posts may offer detailed explanations, code snippets, or visualizations to help readers understand the technical nuances of the research.
+4. Engagement and Outreach: Blog posts aimed at engaging with the wider community, fostering discussions, and soliciting feedback on the research findings. These posts may encourage readers to share their thoughts, ask questions, or contribute additional insights related to the research topic.
+5. Updates and Follow-ups: Blog posts providing updates or follow-ups to the original research paper, discussing subsequent experiments, refinements, or extensions to the research findings. These posts help keep the audience informed about the ongoing progress and developments in the research project.
+
+Including a "docs/blogs" folder alongside the research paper deposit allows researchers to disseminate their findings through a more informal and interactive medium. Blog posts can reach a wider audience beyond academia, including practitioners, policymakers, educators, and the general public. They facilitate engagement, foster dialogue, and increase the visibility and impact of the research within both academic and non-academic communities.

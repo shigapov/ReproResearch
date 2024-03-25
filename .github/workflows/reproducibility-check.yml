@@ -1,0 +1,22 @@
+name: Reproducibility Check
+
+on: [push]
+
+jobs:
+  check-reproducibility:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r ./code/experiments/requirements.txt
+    - name: Run analysis
+      run: |
+        python ./code/experiments/analyze_data.py
+    # Commit all changed files back to the repository
+    - uses: stefanzweifel/git-auto-commit-action@v5

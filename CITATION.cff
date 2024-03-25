@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please check out the licenses."
+authors:
+- family-names: "Shigapov"
+  given-names: "Renat"
+  orcid: "https://orcid.org/0000-0002-0331-2558"
+title: "ReproResearch: A ready-to-use repository for FAIR reproducible research (data) projects"
+date-released: 2024-03-25
+url: "https://github.com/shigapov/ReproResearch"
+

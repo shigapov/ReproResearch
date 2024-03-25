@@ -1,0 +1,14 @@
+# Models
+
+In the context of a research paper, particularly those involving computational research, artificial intelligence (AI), machine learning (ML), or any field that uses computational models, the "models" folder typically contains files related to the computational models used or developed during the research. This folder can be a part of the supplementary materials or a deposit related to the paper, where the authors provide additional resources to support their work, enhance transparency, and allow for the reproducibility of the results. The contents of a "models" folder might include:
+
+1. Pre-trained Models: Files containing the weights and architecture of models that have been trained prior to the research. These are often used as a starting point for further training or direct application within the research context. 
+2. Training Scripts: Code files (often in Python, R, or another programming language used in data science) that detail the process of training the models. These scripts include the initialization of model parameters, the training loop, and possibly the evaluation on a test dataset.
+3. Model Architecture Files: Descriptions or definitions of the computational models' architectures. This can include layer configurations, activation functions, and other architectural details. These files might be in the form of code (defining the model structure in a programming language) or diagrams that visually represent the model architecture.
+4. Configuration Files: Files specifying the configurations used during model training and evaluation. These can include hyperparameters (like learning rate, batch size, number of epochs), data preprocessing steps, and model settings.
+5. Data Processing Scripts: Code that was used for preprocessing data before feeding it into the models. This might include scripts for cleaning, normalizing, augmenting, or otherwise manipulating the data.
+6. Model Evaluation Metrics: Output files or scripts that generate metrics evaluating the model's performance, such as accuracy, precision, recall, F1 score, loss curves, and more.
+7. Model Checkpoints: Saved states of the model at various stages of training. These checkpoints allow researchers or others to resume training from a particular point or to evaluate the model at different stages of learning.
+8. License and Documentation: Information about the licensing of the models and detailed documentation describing the model, how to use it, and any specific considerations or requirements. This documentation is crucial for others who wish to use or build upon the research.
+
+The purpose of including a "models" folder in a research paper deposit is to ensure that other researchers can understand, reproduce, and extend the work. It's part of the broader scientific principle of transparency and reproducibility in research. Depending on the specific field and type of research, the exact contents of this folder can vary.

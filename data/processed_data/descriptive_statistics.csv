@@ -1,0 +1,12 @@
+,Nickname,UnfavouriteNumber,HoursSleptToday
+count,4,4.0,4.0
+unique,4,,
+top,AJ,,
+freq,1,,
+mean,,339.5,7.625
+std,,377.00972578082565,1.3768926368215255
+min,,13.0,6.0
+25%,,13.0,6.75
+50%,,339.5,7.75
+75%,,666.0,8.625
+max,,666.0,9.0

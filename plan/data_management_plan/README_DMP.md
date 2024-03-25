@@ -1,0 +1,14 @@
+# Data Management Plan (DMP)
+
+A folder named "plan/data_management_plan" within a deposit accompanying a research paper typically contains documents related to the data management plan (DMP) for the research project. Here's what you might find in a "plan/data_management_plan" folder:
+
+1. Data Management Plan Document: The primary document outlining the data management practices and strategies for the research project. This document typically includes information about data collection, documentation, storage, backup, security, sharing, reuse, and preservation throughout the lifecycle of the project.
+2. DMP Template or Guidelines: Templates, guidelines, or instructions used to create the data management plan. These resources provide a structured framework for researchers to address key aspects of data management and ensure compliance with institutional or funding agency requirements.
+3. Metadata Standards: Information about metadata standards or schemas used to describe and document the research data. Metadata standards ensure consistency, interoperability, and comprehensibility of the data across different platforms and disciplines.
+4. Data Sharing and Access Policies: Details about policies and procedures for sharing and providing access to the research data, including considerations related to data embargo periods, access controls, licensing, intellectual property rights, and ethical or legal constraints.
+5. Archiving and Preservation Strategies: Strategies and mechanisms for archiving and preserving the research data over the long term. This may include plans for selecting appropriate data repositories, ensuring data format compatibility, assigning persistent identifiers, and implementing backup and disaster recovery measures.
+6. Data Security Measures: Information about measures taken to ensure the security and integrity of the research data, including encryption, access controls, authentication mechanisms, and data anonymization or de-identification techniques.
+7. Data Management Workflow: A workflow or diagram illustrating the steps involved in managing the research data from collection to publication or archival. The workflow helps visualize the data management process and identify potential bottlenecks or gaps in data handling.
+8. Compliance Documentation: Documentation demonstrating compliance with institutional or funding agency requirements for data management and sharing. This may include documentation of data management training, institutional policies, or grant-specific requirements.
+
+By organizing these documents in the "plan/data_management_plan" folder, researchers ensure that key aspects of data management planning are documented, accessible, and transparent. This facilitates compliance with institutional or funder mandates, promotes responsible data stewardship, and enhances the reproducibility and usability of the research data for future research.
