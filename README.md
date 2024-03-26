@@ -2,36 +2,42 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/shigapov/ReproResearch/blob/main/CODE_OF_CONDUCT.md) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Open Source](https://badgen.net/static/open/source/green)](https://github.com/shigapov/ReproResearch/tree/main/code)
+[![Open Code](https://badgen.net/static/open/code/green)](https://github.com/shigapov/ReproResearch/tree/main/code)
 [![Open Data](https://badgen.net/static/open/data/green)](https://github.com/shigapov/ReproResearch/tree/main/data)
+[![Open Plan](https://badgen.net/static/open/plan/green)](https://github.com/shigapov/ReproResearch/tree/main/plan)
 [![Open Science](https://badgen.net/static/open/science/green)](https://en.wikipedia.org/wiki/Open_science)
 
 **Title**: A ready-to-use repository for FAIR reproducible research (data) projects
 
 **Research question**: Can be GitHub used for creating a FAIR reproducible research (data) project? 
 
-**Research objectives**:
-* To examine GitHub's role in the lifecycle of research data management and collaboration
-* To explore how GitHub facilitates data sharing, version tracking, and reproducibility of results in research
-* To describe best practices for organizing data repositories and leveraging GitHub Actions for automating workflows
-
-**Project deliverables**
-* A [GitHub repository](https://github.com/shigapov/ReproResearch) structured according to the best practices in research data management
-* An [automatic workflow](https://github.com/shigapov/ReproResearch/blob/main/.github/workflows/reproducibility-check.yml) using [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) for processing raw data, saving it, and making commit and push
-* A [project website](https://shigapov.github.io/ReproResearch/) using the [Minimal Jekyll theme with GitHub Pages](https://github.com/pages-themes/minimal) deployed via GitHub Actions
-* A [project wiki](https://github.com/shigapov/ReproResearch/wiki) using GitHub Wiki (it needs seperate cloning)
-* An open [Kanban board](https://github.com/users/shigapov/projects/1) for project management
-* Slides for the talk "GitHub for research (data)" in pptx- and pdf-formats archived at Zenodo
-
 ## Table of contents
 
+* [Research objectives](#research-objectives)
+* [Project deliverables](#project-deliverables)
 * [Repo structure](#repo-structure)
   * [Plan](#plan)
   * [Docs](#docs)
   * [Data](#data)
   * [Code](#code)
 * [Replication package](#replication-package)
+* [GitHub concepts](#github-concepts)
+* [How to contribute](#how-to-contribute)
 * [License](#license)
+
+## Research objectives
+
+* To examine GitHub's role in the lifecycle of research data management and collaboration
+* To explore how GitHub facilitates data sharing, version tracking, and reproducibility of results in research
+* To describe best practices for organizing data repositories and leveraging GitHub Actions for automating workflows
+
+## Project deliverables
+* A [GitHub repository](https://github.com/shigapov/ReproResearch) structured according to the best practices in research data management
+* An [automatic workflow](https://github.com/shigapov/ReproResearch/blob/main/.github/workflows/reproducibility-check.yml) using [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) for processing raw data, saving it, and making commit and push
+* A [project website](https://shigapov.github.io/ReproResearch/) using the [Minimal Jekyll theme with GitHub Pages](https://github.com/pages-themes/minimal) deployed via GitHub Actions
+* A [project wiki](https://github.com/shigapov/ReproResearch/wiki) using GitHub Wiki (it needs seperate cloning)
+* An open [Kanban board](https://github.com/users/shigapov/projects/1) for project management
+* Slides for the talk "GitHub for research (data)" in pptx- and pdf-formats archived at Zenodo
 
 ## Repo structure
 
@@ -162,6 +168,38 @@ Creating a replication package for a research project on GitHub involves packagi
     * Provide appropriate attribution to any third-party resources or libraries used in your project.
 
 By following these steps, you can create a comprehensive replication package for your research project on GitHub, allowing others to easily replicate your work and build upon it.
+
+## GitHub concepts
+
+**Repository (Repo):** A folder where your project lives. It can be public or private.
+
+**Branch:** A parallel version of a repository.
+
+**Commit:** An individual change to a file or files.
+
+**Pull request:** A method of submitting contributions to a project.
+
+**Merge:** The process of taking the changes from one branch and integrating them into another.
+
+**Fork:** A copy of a repository that you manage on your account.
+
+**Issue:** A way to track of tasks, enhancements, and bugs for your projects.
+
+**Clone:** A copy of a repository that lives on your computer, and the act of making that copy.
+
+## How to contribute
+
+Thank you for your interest in contributing to ReproResearch Repository. All contributions are welcome.
+
+To get started, please follow these steps:
+
+1. Fork the repository or clone it to your local machine.
+2. Create a new branch for your changes.
+3. Make your changes and commit them with clear commit messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the main repository.
+
+More info in [CONTRIBUTING.md](https://github.com/shigapov/ReproResearch/blob/main/CONTRIBUTING.md).
 
 ## License
 
