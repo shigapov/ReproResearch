@@ -1,0 +1,5 @@
+title: ReproResearch
+logo: /docs/website/RR_logo.png
+description: A ready-to-use repository for FAIR reproducible research (data) projects
+show_downloads: false
+theme: jekyll-theme-minimal
