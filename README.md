@@ -2,8 +2,9 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/shigapov/ReproResearch/blob/main/CODE_OF_CONDUCT.md) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/shigapov/ReproResearch/tree/main/code)
-[![Open Data](https://badgen.net/static/open/data/cyan)](https://github.com/shigapov/ReproResearch/tree/main/data)
+[![Open Source](https://badgen.net/static/open/source/green)](https://github.com/shigapov/ReproResearch/tree/main/code)
+[![Open Data](https://badgen.net/static/open/data/green)](https://github.com/shigapov/ReproResearch/tree/main/data)
+[![Open Science](https://badgen.net/static/open/science/green)](https://en.wikipedia.org/wiki/Open_science)
 
 **Title**: A ready-to-use repository for FAIR reproducible research (data) projects
 
@@ -13,6 +14,14 @@
 * To examine GitHub's role in the lifecycle of research data management and collaboration
 * To explore how GitHub facilitates data sharing, version tracking, and reproducibility of results in research
 * To describe best practices for organizing data repositories and leveraging GitHub Actions for automating workflows
+
+**Project deliverables**
+* A [GitHub repository](https://github.com/shigapov/ReproResearch) structured according to the best practices in research data management
+* An [automatic workflow](https://github.com/shigapov/ReproResearch/blob/main/.github/workflows/reproducibility-check.yml) using [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) for processing raw data, saving it, and making commit and push
+* A [project website](https://shigapov.github.io/ReproResearch/) using the [Minimal Jekyll theme with GitHub Pages](https://github.com/pages-themes/minimal) deployed via GitHub Actions
+* A [project wiki](https://github.com/shigapov/ReproResearch/wiki) using GitHub Wiki (it needs seperate cloning)
+* An open [Kanban board](https://github.com/users/shigapov/projects/1) for project management
+* Slides for the talk "GitHub for research (data)" in pptx- and pdf-formats archived at Zenodo
 
 ## Table of contents
 
