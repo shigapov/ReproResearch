@@ -135,7 +135,7 @@ Creating a replication package for a research project on GitHub involves packagi
    * Optionally, create a release version for your replication package to provide a stable snapshot of your project.
 10. Documentation and Support:
     * Maintain documentation on how to use your replication package, and be responsive to inquiries or issues from users who attempt to replicate your research.
-11. Arhive in a Data Repository:
+11. Archive in a Data Repository:
     * To ensure long-term preservation, accessibility, and citability of your replication package, archive it in a data repository ([MADATA](https://madata.bib.uni-mannheim.de) or [ZENODO](https://zenodo.org)). Add the obtained DOI to CITATION.cff.
 12. Citation and Attribution:
     * Include information on how users should cite your work if they use your replication package for their research.
