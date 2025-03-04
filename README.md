@@ -35,7 +35,7 @@
 * A [GitHub repository](https://github.com/shigapov/ReproResearch) structured according to the best practices in research data management
 * An [automatic workflow](https://github.com/shigapov/ReproResearch/blob/main/.github/workflows/reproducibility-check.yml) using [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) for processing raw data, saving it, and making commit and push
 * A [project website](https://shigapov.github.io/ReproResearch/) using the [Minimal Jekyll theme with GitHub Pages](https://github.com/pages-themes/minimal) deployed via GitHub Actions
-* A [project wiki](https://github.com/shigapov/ReproResearch/wiki) using GitHub Wiki (it needs seperate cloning)
+* A [project wiki](https://github.com/shigapov/ReproResearch/wiki) using GitHub Wiki (it needs separate cloning)
 * An open [Kanban board](https://github.com/users/shigapov/projects/1) for project management
 * Slides for the talk "GitHub for research (data)" in pptx- and pdf-formats archived at Zenodo
 
